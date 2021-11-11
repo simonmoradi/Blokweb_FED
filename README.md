@@ -248,7 +248,7 @@ Hieronder een paar punten vanuit de feedback:
 
 hier screenshot(s) van je eindresultaat
 
- <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ <img src="resultaat_code.jpg" width="375px" alt="breakdown van de hele pagina">
  
  <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
  
