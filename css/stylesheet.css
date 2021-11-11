@@ -594,7 +594,8 @@ header nav ul > .anderstylen {
 header nav ul li > a {
     display: flex;
     justify-content: space-around;
-    padding: 0.7em;
+    padding: 13px;
+    /* padding: 1.7em; */
     padding-bottom: 20px;
 }
 
