@@ -225,13 +225,38 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was niet helemaal goed voorbereid op dit gesprek eerlijk gezegd, ik had het wel af maar ik heb het een beetje gehaast afgerond allemaal.
+Mijn github was 1 grote bende en me code ook. Ik heb het wel als een fijn gesprek ervaren en dit gesprek heeft mij juist op het goede
+pad gestuurd. Ik kreeg een waslijst aan feedback en verbeterpunten. Hier ben ik vervolgens mee aan de slag gegaan. Ik ben momenteel erg trots op het eindresultaat!
+ 
+Hieronder een paar punten vanuit de feedback:
+ 
+ -Hamburgermneu is niet toegankelijk, niet tabbaar, waarom geen humpty?
+- Elementen schalen niet goed mee, is alleen iphone 6-7-8 (of X, niet responsive iig)
+- background images zijn niet gecentreerd (pijlen), vogels schalen raar mee
+- CSS variabelen ontbreken
+- classnames met rare namen, probeer ze te vermijden
+- <b> tags, geen <strong>? waarom niet
+- JS in je HTML, die onClick() moet element.addEventListener zijn he,
+- geen <br>, gebruik spannetjes.
+- geen label voor inputs
+- Footer bevat een lijst, maar is een groep <a>'s
+- repository is een beetje een bende, probeer het even met een student assistent opnieuw in te richten
+ 
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
 
+ <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ 
+ <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ 
+ <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ 
+ <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
 </details>
+
 
 
 
@@ -249,8 +274,11 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 3. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - spreekt voor zich --> flexbox
 4. https://www.section.io/engineering-education/how-to-make-an-image-carousel-for-your-website/ - slider voorbeeld
 5. https://freefrontend.com/css-forms/ - formulieren voorbeelden 
-6. google afbeeldingenvoor de images
+6. google afbeeldingen voor de images
 7. https://www.geeksforgeeks.org/how-to-create-image-slider-using-html-css-and-javascript/ - slider voorbeeld
 8. https://greensock.com/forums/topic/29044-scrolltrigger-play-audio-when-scroll-to-certain-point-on-the-page/ - hier wil ik nog naar kijken, scroll met geluid --> javascript
+9. https://stackoverflow.com/questions/51572489/playing-sound-on-click-event-with-pure-javascript/51572658 - Klikken met geluid javascript
+10. https://www.w3docs.com/tools/code-editor/3712 - nieuwe slider
+11. https://codepen.io/Sluggern/pen/qyXgVe?editors=1010 - voorbeeld javascript geluid met klik
 
 </details>
