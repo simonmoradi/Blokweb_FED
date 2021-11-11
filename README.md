@@ -248,13 +248,15 @@ Hieronder een paar punten vanuit de feedback:
 
 hier screenshot(s) van je eindresultaat
 
- <img src="image/resultaat_code.jpg" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/resultaat code.png" width="375px" alt="code">
  
- <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/Eindresultaat 3.png" width="375px" alt="resultaat">
  
- <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/Eindresultaat 4.png" width="375px" alt="resultaat">
  
- <img src="images/Breakdownschets_pagina1_volledig.jpg" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/Eindresultaat 2.png" width="375px" alt="resultaat">
+ 
+ <img src="images/Eindresultaat 1.png" width="375px" alt="resultaat">
 </details>
 
 
